@@ -14,7 +14,7 @@ import (
 /*
 Channel telegram : ERROR_IP
 ===============================================
-Link Github : https://github.com/esfelurm
+Link Github : https://github.com/ERRORIP
 ===============================================
 Sms Bomber pro v1
 */
